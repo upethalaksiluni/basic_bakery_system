@@ -1,4 +1,3 @@
-📖 README Intro (for your repo)
 🍰 Bakery Management System (C++)
 
 This is a console-based Bakery Management System built in C++.
